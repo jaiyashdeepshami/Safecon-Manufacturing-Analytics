@@ -1,0 +1,41 @@
+Machine_ID,Machine_Name,Plant,Machine_Type,Installation_Year
+AGR-TP-01,TP-01 Rotary Tablet Press,Agra,Rotary Tablet Press,2010
+AGR-TP-02,TP-02 Rotary Tablet Press,Agra,Rotary Tablet Press,2011
+AGR-TP-03,TP-03 Rotary Tablet Press,Agra,Rotary Tablet Press,2022
+AGR-TP-04,TP-04 Rotary Tablet Press,Agra,Rotary Tablet Press,2009
+AGR-TP-05,TP-05 Rotary Tablet Press,Agra,Rotary Tablet Press,2019
+AGR-CF-01,CF-01 Capsule Filling Machine,Agra,Capsule Filling Machine,2016
+AGR-CF-02,CF-02 Capsule Filling Machine,Agra,Capsule Filling Machine,2008
+AGR-CF-03,CF-03 Capsule Filling Machine,Agra,Capsule Filling Machine,2018
+AGR-LF-01,LF-01 Liquid Filling Line,Agra,Liquid Filling Line,2014
+AGR-LF-02,LF-02 Liquid Filling Line,Agra,Liquid Filling Line,2009
+AGR-LF-03,LF-03 Liquid Filling Line,Agra,Liquid Filling Line,2022
+AGR-LF-04,LF-04 Liquid Filling Line,Agra,Liquid Filling Line,2012
+AGR-PF-01,PF-01 Powder Blending & Filling Line,Agra,Powder Blending & Filling Line,2012
+AGR-PF-02,PF-02 Powder Blending & Filling Line,Agra,Powder Blending & Filling Line,2022
+AGR-PF-03,PF-03 Powder Blending & Filling Line,Agra,Powder Blending & Filling Line,2015
+AGR-IF-01,IF-01 Injectable Filling Line,Agra,Injectable Filling Line,2008
+AGR-IF-02,IF-02 Injectable Filling Line,Agra,Injectable Filling Line,2020
+AGR-IF-03,IF-03 Injectable Filling Line,Agra,Injectable Filling Line,2009
+AGR-SM-01,SM-01 Shampoo Mixing & Filling Line,Agra,Shampoo Mixing & Filling Line,2008
+AGR-SM-02,SM-02 Shampoo Mixing & Filling Line,Agra,Shampoo Mixing & Filling Line,2022
+RDP-TP-01,TP-01 Rotary Tablet Press,Rudrapur,Rotary Tablet Press,2019
+RDP-TP-02,TP-02 Rotary Tablet Press,Rudrapur,Rotary Tablet Press,2017
+RDP-TP-03,TP-03 Rotary Tablet Press,Rudrapur,Rotary Tablet Press,2009
+RDP-TP-04,TP-04 Rotary Tablet Press,Rudrapur,Rotary Tablet Press,2014
+RDP-TP-05,TP-05 Rotary Tablet Press,Rudrapur,Rotary Tablet Press,2011
+RDP-CF-01,CF-01 Capsule Filling Machine,Rudrapur,Capsule Filling Machine,2021
+RDP-CF-02,CF-02 Capsule Filling Machine,Rudrapur,Capsule Filling Machine,2021
+RDP-CF-03,CF-03 Capsule Filling Machine,Rudrapur,Capsule Filling Machine,2009
+RDP-LF-01,LF-01 Liquid Filling Line,Rudrapur,Liquid Filling Line,2013
+RDP-LF-02,LF-02 Liquid Filling Line,Rudrapur,Liquid Filling Line,2022
+RDP-LF-03,LF-03 Liquid Filling Line,Rudrapur,Liquid Filling Line,2021
+RDP-LF-04,LF-04 Liquid Filling Line,Rudrapur,Liquid Filling Line,2012
+RDP-PF-01,PF-01 Powder Blending & Filling Line,Rudrapur,Powder Blending & Filling Line,2011
+RDP-PF-02,PF-02 Powder Blending & Filling Line,Rudrapur,Powder Blending & Filling Line,2022
+RDP-PF-03,PF-03 Powder Blending & Filling Line,Rudrapur,Powder Blending & Filling Line,2009
+RDP-IF-01,IF-01 Injectable Filling Line,Rudrapur,Injectable Filling Line,2013
+RDP-IF-02,IF-02 Injectable Filling Line,Rudrapur,Injectable Filling Line,2010
+RDP-IF-03,IF-03 Injectable Filling Line,Rudrapur,Injectable Filling Line,2021
+RDP-SM-01,SM-01 Shampoo Mixing & Filling Line,Rudrapur,Shampoo Mixing & Filling Line,2010
+RDP-SM-02,SM-02 Shampoo Mixing & Filling Line,Rudrapur,Shampoo Mixing & Filling Line,2010

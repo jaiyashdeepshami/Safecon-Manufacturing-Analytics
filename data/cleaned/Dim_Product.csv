@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Product_Category,Dosage_Form,Standard_Batch_Size
+P001,Albendazole 300mg Bolus,Tablets / Bolus,Bolus,243800
+P002,Oxyclozanide + Levamisole Bolus,Tablets / Bolus,Bolus,257400
+P003,Fenbendazole 150mg Tablet,Tablets / Bolus,Tablet,135100
+P004,Praziquantel 50mg Tablet,Tablets / Bolus,Tablet,241800
+P005,Meloxicam 7.5mg Tablet,Tablets / Bolus,Tablet,140500
+P006,Calcium Phosphorus Bolus,Tablets / Bolus,Bolus,179300
+P007,Metronidazole 200mg Tablet,Tablets / Bolus,Tablet,223000
+P008,Liver Tonic Bolus,Tablets / Bolus,Bolus,190900
+P009,Closantel 250mg Bolus,Tablets / Bolus,Bolus,208700
+P010,Rumen Stimulant Bolus,Tablets / Bolus,Bolus,252400
+P011,Doxycycline 100mg Capsule,Capsules,Capsule,181000
+P012,Amoxicillin 250mg Capsule,Capsules,Capsule,206500
+P013,Probiotic Capsule (Poultry),Capsules,Capsule,183400
+P014,Vitamin AD3E Capsule,Capsules,Capsule,146000
+P015,Omeprazole Vet Capsule,Capsules,Capsule,108500
+P016,Itraconazole Capsule,Capsules,Capsule,179400
+P017,Cephalexin 250mg Capsule,Capsules,Capsule,129100
+P018,Silymarin Capsule,Capsules,Capsule,146300
+P019,Enrofloxacin Capsule,Capsules,Capsule,105600
+P020,Herbal Immunity Capsule,Capsules,Capsule,117200
+P021,Ivermectin Oral Solution,Liquids / Oral,Oral Liquid,19000
+P022,Calcium Gluconate Oral Liquid,Liquids / Oral,Oral Liquid,23200
+P023,Liver Tonic Syrup,Liquids / Oral,Oral Liquid,25300
+P024,Multivitamin Oral Liquid,Liquids / Oral,Oral Liquid,18200
+P025,Electrolyte Oral Solution,Liquids / Oral,Oral Liquid,22900
+P026,Levamisole Oral Suspension,Liquids / Oral,Oral Suspension,15200
+P027,Iron Folic Oral Liquid,Liquids / Oral,Oral Liquid,24600
+P028,Tiamulin Oral Solution,Liquids / Oral,Oral Liquid,23300
+P029,Amprolium Oral Solution,Liquids / Oral,Oral Liquid,19300
+P030,Mineral Mixture Liquid,Liquids / Oral,Oral Liquid,14200
+P031,Electrolyte Powder,Dry Powders,Powder,11300
+P032,Water Soluble Vitamin Powder,Dry Powders,Powder,10500
+P033,Oxytetracycline Water Soluble Powder,Dry Powders,Powder,11100
+P034,Toxin Binder Powder,Dry Powders,Powder,10500
+P035,Amino Acid Premix Powder,Dry Powders,Powder,6200
+P036,Mineral Mixture Powder,Dry Powders,Powder,7700
+P037,Probiotic Feed Powder,Dry Powders,Powder,12800
+P038,Tylosin Soluble Powder,Dry Powders,Powder,6500
+P039,Colistin Soluble Powder,Dry Powders,Powder,8300
+P040,Betaine Powder,Dry Powders,Powder,10500
+P041,Oxytetracycline 20% Injection,Injectables,Injection,17000
+P042,Ivermectin 1% Injection,Injectables,Injection,18800
+P043,Meloxicam Injection,Injectables,Injection,9300
+P044,Ceftiofur Injection,Injectables,Injection,17700
+P045,Vitamin B Complex Injection,Injectables,Injection,10900
+P046,Calcium Borogluconate Injection,Injectables,Injection,10800
+P047,Enrofloxacin Injection,Injectables,Injection,14400
+P048,Oxytocin Injection,Injectables,Injection,12600
+P049,Dexamethasone Injection,Injectables,Injection,13300
+P050,Gentamicin Injection,Injectables,Injection,10400
+P051,Anti-Tick Medicated Shampoo,External Shampoos,Shampoo,15900
+P052,Anti-Fungal Shampoo,External Shampoos,Shampoo,9800
+P053,Herbal Pet Shampoo,External Shampoos,Shampoo,14700
+P054,Neem Medicated Shampoo,External Shampoos,Shampoo,11500
+P055,Chlorhexidine Shampoo,External Shampoos,Shampoo,8100
+P056,Coat Conditioner Shampoo,External Shampoos,Shampoo,11600
+P057,Puppy Gentle Shampoo,External Shampoos,Shampoo,10100
+P058,Flea Control Shampoo,External Shampoos,Shampoo,8900
+P059,Hypoallergenic Shampoo,External Shampoos,Shampoo,14500
+P060,Dandruff Control Shampoo,External Shampoos,Shampoo,11300

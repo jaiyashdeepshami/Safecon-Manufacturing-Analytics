@@ -1,0 +1,29 @@
+Client_ID,Client_Name,Client_Type,Region,Priority_Level
+C001,Mankind Pharma,Pharma Company,North,High
+C002,Cargill Animal Nutrition,Animal Nutrition,West,High
+C003,Lupin,Pharma Company,West,High
+C004,Cadila Healthcare,Pharma Company,West,High
+C005,Greenfield AgroVet,Distributor,North,Medium
+C006,Bharat Animal Care,Distributor,North,Medium
+C007,Kisan Livestock Solutions,Distributor,Central,Medium
+C008,AgriVet Remedies,Pharma Company,South,Medium
+C009,Himalayan Vet Pharma,Pharma Company,North,Medium
+C010,Deccan Animal Health,Pharma Company,South,Medium
+C011,Sunrise Poultry Care,Poultry Integrator,South,Medium
+C012,Gangetic Dairy Cooperative,Dairy Cooperative,East,Medium
+C013,Malabar Agro Nutrition,Animal Nutrition,South,Medium
+C014,Punjab Veterinary Distributors,Distributor,North,Low
+C015,Rajputana AgroVet,Distributor,West,Low
+C016,Eastern Cattle Care,Distributor,East,Low
+C017,Navjivan Animal Health,Pharma Company,West,Medium
+C018,Orchid Vet Labs,Pharma Company,South,Low
+C019,Trident Livestock Nutrition,Animal Nutrition,Central,Low
+C020,Vanguard Pet Care,Pet Care Brand,North,Medium
+C021,PawPrime Pet Care,Pet Care Brand,West,Low
+C022,Neelkanth Poultry Integrators,Poultry Integrator,Central,Low
+C023,Southern Vet Distributors,Distributor,South,Low
+C024,Gulf Agro Imports,Export Buyer,Export - Middle East,Medium
+C025,Nile Valley AgroVet,Export Buyer,Export - Africa,Low
+C026,Mekong Animal Health,Export Buyer,Export - South East Asia,Low
+C027,Apex Dairy Solutions,Dairy Cooperative,North,Low
+C028,Coromandel Vet Supplies,Distributor,South,Low
